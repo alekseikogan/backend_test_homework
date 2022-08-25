@@ -1,4 +1,5 @@
 # backend_test_homework
+<<<<<<< HEAD
 # hello_its_me
 
 # игнорировать файл README.md
@@ -9,3 +10,6 @@ build/side.txt
 
 # игнорировать все файлы с расширением .doc
 *.doc 
+=======
+# hello_its_me
+>>>>>>> 3a8ddadf4eddeed5e8730a15bd5a34652d35a65f
